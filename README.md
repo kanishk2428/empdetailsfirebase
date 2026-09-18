@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by: Vamsi Krishna G
-Registeration Number: 212223220120
+Developed by: KANISHK ARYA S
+Registeration Number: 212225220047
 ```
 
 ### MainActivity.java
